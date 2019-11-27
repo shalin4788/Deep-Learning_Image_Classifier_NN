@@ -18,7 +18,7 @@ Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python di
 
 ### Code
 
-Note that the code included in `visuals.py` is to be invoked as an external module to be able to keep session active in case the training of Neural NEtwork goes beyond 30 minutes
+Note that the code included in `workspace_utils.py` is to be invoked as an external module to be able to keep session active in case the training of Neural NEtwork goes beyond 30 minutes
 
 ### GPU 
 You can choose to run the program in GPU mode for which you need to have a remote server setup. For the sake of this project, i ran the program locally on UDacity's offered workspace which was GPU enabled
