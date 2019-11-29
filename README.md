@@ -67,10 +67,17 @@ Also as a part of train.py and predict.py files, a command line Application prog
 
 ## References
 https://pytorch.org/docs/stable/torchvision/models.html
+
 https://pytorch.org/docs/stable/torchvision/models.html
+
 https://discuss.pytorch.org/t/cant-convert-a-given-np-ndarray-to-a-tensor/21321
+
 https://medium.com/octavian-ai/which-optimizer-and-learning-rate-should-i-use-for-deep-learning-5acb418f9b2
+
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html#load-data
+
 https://discuss.pytorch.org/t/runtimeerror-input-type-torch-cuda-floattensor-and-weight-type-torch-floattensor-should-be-the-same/21782
+
 https://stackoverflow.com/questions/2356925/how-to-check-whether-string-might-be-type-cast-to-float-in-python
+
 https://discuss.pytorch.org/t/convert-a-jpegimagefile-to-a-tensor-to-train-a-resnet/9101
