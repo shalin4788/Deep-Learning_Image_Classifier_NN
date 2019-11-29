@@ -12,11 +12,16 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [PyTorch](https://pytorch.org/)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-Also there are 2 files - train.py and predict.py for which you will need to have software installed on some IDE, preferably Atom [Atom](https://atom.io/) 
+Also there are 2 files - `train.py` and `predict.py` for which you will need to have software installed on some IDE, preferably Atom [Atom](https://atom.io/) 
 
 Install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Code
+
+3 files represent the code needed to build the Image classifier application
+- `Image Classifier Project.ipynb`
+- `train.py`
+- `predict.py`
 
 Note that the code included in `workspace_utils.py` is to be invoked as an external module to be able to keep session active in case the training of Neural NEtwork goes beyond 30 minutes
 
